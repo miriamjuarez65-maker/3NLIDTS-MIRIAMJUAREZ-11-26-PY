@@ -1,0 +1,7 @@
+Nombres: Miriam
+Apellidos: Juarez Medez
+Edad: 20 años
+Estatura: 1.60 cm
+Teléfono: 9614366592
+Género: Mujer
+
